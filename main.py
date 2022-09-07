@@ -5,7 +5,6 @@ from tkcalendar import *
 from tkcalendar import DateEntry
 from datetime import datetime
 from Backend.function import insertProduct 
-#note
 
 class stockTracking:
     def __init__(self, root):
